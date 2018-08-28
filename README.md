@@ -24,7 +24,7 @@
 ```
 # 下载配置文件
 git clone https://github.com/zct1989/rime-custom.git .
-``
+```
 
 3.重新部署即可
 
