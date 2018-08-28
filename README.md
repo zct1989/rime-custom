@@ -12,19 +12,19 @@
 
 ### 使用方法
 
-1. 切换至Rmie目录下:
+1.切换至Rmie目录下:
 
 ```
 # mac
 # ~/Library/Rime
 ```
 
-2. 检出扩展配置文件
+2.检出扩展配置文件
 
 ```
 # 下载配置文件
 git clone https://github.com/zct1989/rime-custom.git .
 ```
 
-3. 重新部署即可
+3.重新部署即可
 
