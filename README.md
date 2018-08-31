@@ -28,3 +28,14 @@ git clone https://github.com/zct1989/rime-custom.git .
 
 3.重新部署即可
 
+
+---
+
+过滤生僻字的方法没有测试成功，故使用使用安装花园明朝的方法来解决生僻字显示问题:
+
+```
+brew tap jinntrance/homebrew-fonts
+#花园明朝字体
+brew cask install font-hanamina
+```
+
