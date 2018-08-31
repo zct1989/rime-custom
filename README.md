@@ -31,7 +31,7 @@ git clone https://github.com/zct1989/rime-custom.git .
 
 ---
 
-过滤生僻字的方法没有测试成功，故使用使用安装花园明朝的方法来解决生僻字显示问题:
+过滤生僻字的方法没有测试成功，故使用使用安装花园明朝的方法来解决生僻字显示问题:
 
 ```
 brew tap jinntrance/homebrew-fonts
