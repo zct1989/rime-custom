@@ -1,6 +1,7 @@
 patch:
   menu/page_size: 7 # 每页显示词数
   schema_list:
+    - schema: double_pinyin_flypy  # 小鶴雙拼
     - schema: luna_pinyin          # 朙月拼音
     - schema: luna_pinyin_simp     # 朙月拼音 简化字模式
 #   - schema: luna_pinyin_tw       # 朙月拼音 臺灣正體模式
@@ -15,7 +16,6 @@ patch:
     - schema: double_pinyin        # 自然碼雙拼
     - schema: double_pinyin_mspy   # 微軟雙拼
     - schema: double_pinyin_abc    # 智能 ABC 雙拼
-    - schema: double_pinyin_flypy  # 小鶴雙拼
 #   - schema: wugniu               # 吳語上海話（新派）
 #   - schema: wugniu_lopha         # 吳語上海話（老派）
 #   - schema: sampheng             # 中古漢語三拼
